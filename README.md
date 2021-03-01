@@ -17,8 +17,6 @@ Source: https://developers.google.com/youtube/v3/quickstart/python
 
 ``pip install nltk``
 
-````
-
 ## Data
 From comments under videos in 100 Baby Challenge playlist. 
 Videos are created by BuzzFeed Multiplayer starring Kelsey Impicciche
