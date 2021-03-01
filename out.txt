@@ -1,0 +1,158 @@
+Duplicates:  28
+Finished with episode 1. Time: 0:4
+Duplicates:  17
+Finished with episode 2. Time: 0:4
+Duplicates:  25
+Finished with episode 3. Time: 0:4
+Duplicates:  56
+Finished with episode 4. Time: 0:8
+Duplicates:  31
+Finished with episode 5. Time: 0:5
+Duplicates:  102
+Finished with episode 6. Time: 0:5
+Duplicates:  66
+Finished with episode 7. Time: 0:8
+Duplicates:  60
+Finished with episode 8. Time: 0:8
+Duplicates:  217
+Finished with episode 9. Time: 1:6
+Duplicates:  172
+Finished with episode 10. Time: 0:22
+Duplicates:  78
+Finished with episode 11. Time: 0:9
+Duplicates:  183
+Finished with episode 12. Time: 0:18
+Duplicates:  157
+Finished with episode 13. Time: 0:21
+Duplicates:  89
+Finished with episode 14. Time: 0:12
+Duplicates:  85
+Finished with episode 15. Time: 0:18
+Duplicates:  97
+Finished with episode 16. Time: 0:14
+Duplicates:  59
+Finished with episode 17. Time: 0:8
+Duplicates:  60
+Finished with episode 18. Time: 0:6
+Duplicates:  35
+Finished with episode 19. Time: 0:5
+Duplicates:  36
+Finished with episode 20. Time: 0:5
+Duplicates:  118
+Finished with episode 21. Time: 0:11
+Duplicates:  120
+Finished with episode 22. Time: 0:11
+Duplicates:  76
+Finished with episode 23. Time: 0:9
+Duplicates:  89
+Finished with episode 24. Time: 0:7
+Duplicates:  46
+Finished with episode 25. Time: 0:6
+Duplicates:  25
+Finished with episode 26. Time: 0:3
+Duplicates:  19
+Finished with episode 27. Time: 0:2
+Duplicates:  27
+Finished with episode 28. Time: 0:4
+Duplicates:  31
+Finished with episode 29. Time: 0:5
+Duplicates:  36
+Finished with episode 30. Time: 0:8
+Duplicates:  14
+Finished with episode 31. Time: 0:5
+Duplicates:  25
+Finished with episode 32. Time: 0:4
+Duplicates:  28
+Finished with episode 33. Time: 0:3
+Duplicates:  15
+Finished with episode 34. Time: 0:5
+Duplicates:  39
+Finished with episode 35. Time: 0:5
+Duplicates:  119
+Finished with episode 36. Time: 0:5
+Duplicates:  46
+Finished with episode 37. Time: 0:5
+Duplicates:  34
+Finished with episode 38. Time: 0:7
+Duplicates:  42
+Finished with episode 39. Time: 0:7
+Duplicates:  37
+Finished with episode 40. Time: 0:5
+Duplicates:  21
+Finished with episode 41. Time: 0:2
+Duplicates:  15
+Finished with episode 42. Time: 0:3
+Duplicates:  14
+Finished with episode 43. Time: 0:2
+Duplicates:  22
+Finished with episode 44. Time: 0:3
+Duplicates:  46
+Finished with episode 45. Time: 0:2
+Duplicates:  25
+Finished with episode 46. Time: 0:3
+Duplicates:  18
+Finished with episode 47. Time: 0:3
+Duplicates:  37
+Finished with episode 48. Time: 0:3
+Duplicates:  29
+Finished with episode 49. Time: 0:3
+Duplicates:  26
+Finished with episode 50. Time: 0:3
+Duplicates:  19
+Finished with episode 51. Time: 0:3
+Duplicates:  14
+Finished with episode 52. Time: 0:4
+Duplicates:  16
+Finished with episode 53. Time: 0:2
+Duplicates:  22
+Finished with episode 54. Time: 0:2
+Duplicates:  15
+Finished with episode 55. Time: 0:2
+Duplicates:  15
+Finished with episode 56. Time: 0:2
+Duplicates:  5
+Finished with episode 57. Time: 0:2
+Duplicates:  58
+Finished with episode 58. Time: 0:2
+Duplicates:  31
+Finished with episode 59. Time: 0:1
+Duplicates:  10
+Finished with episode 60. Time: 0:1
+Duplicates:  31
+Finished with episode 61. Time: 0:3
+Duplicates:  19
+Finished with episode 62. Time: 0:2
+Duplicates:  34
+Finished with episode 63. Time: 0:2
+Duplicates:  17
+Finished with episode 64. Time: 0:2
+Duplicates:  27
+Finished with episode 65. Time: 0:1
+Duplicates:  7
+Finished with episode 66. Time: 0:1
+Duplicates:  10
+Finished with episode 67. Time: 0:2
+Duplicates:  18
+Finished with episode 68. Time: 0:1
+Duplicates:  20
+Finished with episode 69. Time: 0:2
+Duplicates:  20
+Finished with episode 70. Time: 0:2
+Duplicates:  43
+Finished with episode 71. Time: 0:1
+Duplicates:  29
+Finished with episode 72. Time: 0:2
+Duplicates:  14
+Finished with episode 73. Time: 0:1
+Duplicates:  42
+Finished with episode 74. Time: 0:1
+Duplicates:  8
+Finished with episode 75. Time: 0:1
+Duplicates:  35
+Finished with episode 76. Time: 0:1
+Duplicates:  79
+Finished with episode 77. Time: 0:2
+Duplicates:  46
+Finished with episode 78. Time: 0:1
+Duplicates:  80
+Finished with episode 79. Time: 0:1

@@ -1,0 +1,185 @@
+<!--Olive-->
+{{.child|n=1|col4={{lesbian}}|age={{elder}}|col6={{sim}}|col7=|col9=[[Marcus Flex]]|col10={{old.age}}}}
+<!--Brielle-->
+{{.child|n=2|col4={{female}}|age={{elder}}|col6={{sim}}|col7=|col9=[[Dominic Fyres]]|col10={{old.age}}}}
+<!--Jaime-->
+{{.child|n=3|col4={{male}}|age={{elder}}|col6={{sim}}|col7=|col9=[[J Huntington III]]|col10={{old.age}}}}
+<!--Alexis-->
+{{.child|n=4|col4={{female}}|age={{elder}}|col6={{sim}}|col7=|col9=[[Sergio Romeo]]|col10={{old.age}}}}
+<!--Miles-->
+{{.child|n=5|col4={{male}}|age={{elder}}|col6={{sim}}|col7={{twin|#=1}}|col9=[[Lars Rosewood]]|rs=2|col10={{old.age}}}}
+<!--Renee-->
+{{.child.x|n=6|col4={{female}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Charlie-->
+{{.child|n=7|col4={{male}}|age={{elder}}|col6={{sim}}|col7=|col9=[[Craig Slater]]|col10={{old.age}}}}
+<!--Hazel-->
+{{.child|n=8|col4={{female}}|age={{elder}}|col6={{sim}}|col7=|col9=[[Kim Mingyu]]|col10={{old.age}}}}
+<!--Eric-->
+{{.child|n=9|col4={{male}}|age={{elder}}|col6={{sim}}|col7=|col9=[[Caron Simmons]]|col10={{old.age}}}}
+<!--Niya-->
+{{.child|n=10|col4={{bi|female}}|age={{YA}}|col6={{vampire}}|col7={{twin|#=2}}|col9=[[Steven Smith]]|rs=2|col10={{immortal}}}}
+<!--Natalie-->
+{{.child.x|n=11|col4={{female}}|age={{YA}}|col6={{vampire}}|col10={{immortal}}}}
+<!--Rosé-->
+{{.child|n=12|col4={{female}}|age={{elder}}|col6={{sim}}|col7={{twin|#=3}}|col9=[[Maria Wills]]|rs=2|col10={{old.age}}}}
+<!--River-->
+{{.child.x|n=13|col4={{male}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Flynn-->
+{{.child|n=14|col4={{male}}|age={{elder}}|col6={{sim}}|col7={{twin|#=4}}|col9=[[Cayden Cross]]|rs=2|col10={{old.age}}}}
+<!--Cooper-->
+{{.child.x|n=15|col4={{male}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Addi-->
+{{.child|n=16|col4={{female}}|age={{elder}}|col6={{sim}}|col7=|col9=[[Yusuf Malik]]|col10={{old.age}}}}
+<!--Ellie-->
+{{.child|n=17|col4={{female}}|age={{elder}}|col6={{sim}}|col7={{twin|#=5}}|col9=[[Craig Dream Daddy]]|rs=2|col10={{old.age}}}}
+<!--Dorian-->
+{{.child.x|n=18|col4={{male}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Theo-->
+{{.child|n=19|col4={{male}}|age={{elder}}|col6={{sim}}|col7={{twin|#=6}}|col9=[[Hailey Willis]]|rs=2|col10={{old.age}}}}
+<!--Tristen-->
+{{.child.x|n=20|col4={{male}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Willow-->
+{{.child|n=21|col4={{female}}|age={{elder}}|col6={{sim}}|col7={{twin|#=7}}|col9=[[Hamza Mounib]]|rs=2|col10={{old.age}}}}
+<!--Ginny-->
+{{.child.x|n=22|col4={{enby}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Bran-->
+{{.child|n=23|col4={{male}}|age={{elder}}|col6={{alien-sim}}|col7=|col9=[[Kade Pelletier]]|col10={{old.age}}}}
+<!--Jon-->
+{{.child|n=24|col4={{male}}|age={{elder}}|col6={{sim}}|col7={{twin|#=8}}|col9=[[Korbin Sherwood]]|rs=2|col10={{old.age}}}}
+<!--Arya-->
+{{.child.x|n=25|col4={{female}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Nova-->
+{{.child|n=26|col4={{female}}|age={{elder}}|col6={{sim}}|col7={{twin|#=9}}|col9=[[Chance Turner]]|rs=2|col10={{old.age}}}}
+<!--Freya-->
+{{.child.x|n=27|col4={{female}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Sirius-->
+{{.child|n=28|col4={{male}}|age={{elder}}|col6={{sim}}|col7={{twin|#=10}}|col9=[[Jordan Weir]]|rs=2|col10={{old.age}}}}
+<!--Stacey-->
+{{.child.x|n=29|col4={{female}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Kasey-->
+{{.child|n=30|col4={{bi|female}}|age={{elder}}|col6={{sim}}|col7=|col9=[[Jace Thomas]]|col10=}}
+<!--Taylor-->
+{{.child|n=31|col4={{male}}|age={{elder}}|col6={{sim}}|col7={{twin|#=11}}|col9=[[Khaled Al Fassi]]|rs=2|col10={{old.age}}}}
+<!--Tayler-->
+{{.child.x|n=32|col4={{male}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Tegan-->
+{{.child|n=33|col4={{male}}|age={{elder}}|col6={{sim}}|col7={{twin|#=12}}|col9=[[Hawea Paoa]]|rs=2|col10={{old.age}}}}
+<!--Archer-->
+{{.child.x|n=34|col4={{male}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Blaire-->
+{{.child|n=35|col4={{female}}|age={{elder}}|col6={{sim}}|col7={{triplets}}|col9=[[Afu Savea]]|rs=3|col10={{old.age}}}}
+<!--Brooke-->
+{{.child.x|n=36|col4={{female}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Brendon-->
+{{.child.x|n=37|col4={{male}}|age={{elder}}|col6={{sim}}|col10={{old.age}}}}
+<!--Hope-->
+{{.child|n=38|col4={{female}}|age={{elder}}|col6={{sim}}|col7={{twin|#=13}}|col9=[[Seiji Tanaka]]|rs=2|col10={{old.age}}}}
+<!--Bella-->
+{{.child.x|n=39|col4={{female}}|age={{elder}}|col6={{sim}}|col9=|col10={{old.age}}}}
+<!--Ever-->
+{{.child|n=40|col4={{female}}|age={{elder}}|col6={{sim}}|col7={{twin|#=14}}|col9=[[Derumk Kealoha]]|rs=2}}
+<!--Jake-->
+{{.child.x|n=41|col4={{male}}|age={{elder}}|col6={{sim}}}}
+<!--Romeo-->
+{{.child|n=42|col4={{male}}|age={{elder}}|col6={{sim}}|col7={{twin|#=15}}|col9=[[Sai Ramesh]]|rs=2}}
+<!--Caesar-->
+{{.child.x|n=43|col4={{male}}|age={{elder}}|col6={{sim}}|col9=}}
+<!--Harry-->
+{{.child|n=h|col4={{male}}|age={{teen}}|col6={{sim}}|col7={{twin|#=16}}|col9=[[Duane Talla]]|rs=2|col10={{drowning}}}}
+<!--Dustin-->
+{{.child.x|n=44|col4={{male}}|age={{adult}}|col6={{sim}}}}
+<!--Leo, Jr.-->
+{{.child|n=45|col4={{male}}|age={{adult}}|col6={{sim}}|col7=|col9=[[Leonardo DiCaprio]]}}
+<!--Logan-->
+{{.child|n=46|col4={{male}}|age={{adult}}|col6={{sim}}|col7=|col9=[[Serena Moore]]}}
+<!--Holly-->
+{{.child|n=47|col4={{female}}|age={{adult}}|col6={{sim}}|col7={{twin|#=17}}|col9=[[James Potter]]|rs=2}}
+<!--Hayley-->
+{{.child.x|n=48|col4={{female}}|age={{adult}}|col6={{sim}}}}
+<!--Olivia-->
+{{.child|n=49|col4={{female}}|age={{YA}}|col6={{sim}}|col7=|col9=[[Tom Holland]]}}
+<!--Chelsea, Jr.-->
+{{.child|n=50|col4={{pan|female}}|age={{YA}}|col6={{sim}}|col7=|col9=[[Finnegan Lambert]]}}
+<!--Annie-->
+{{.child|n=51|col4={{female}}|age={{YA}}|col6={{sim}}|col7={{twin|#=18}}|col9=[[Theo Beckett]]|rs=2}}
+<!--Ashton-->
+{{.child.x|n=52|col4={{male}}|age={{YA}}|col6={{sim}}}}
+<!--Phoebe-->
+{{.child|n=53|col4={{female}}|age={{YA}}|col6={{sim}}|col7=|col9=[[Remus Lupin]]}}
+<!--Owen-->
+{{.child|n=54|col4={{male}}|age={{YA}}|col6={{sim}}|col7={{twin|#=19}}|col9=[[Leonardo Parish]]|rs=2}}
+<!--Lucien-->
+{{.child.x|n=55|col4={{male}}|age={{YA}}|col6={{sim}}}}
+<!--Autumn-->
+{{.child|n=56|col4={{female}}|age={{YA}}|col6={{sim}}|col7={{twin|#=20}}|col9=[[Noel Fritz]]|rs=2}}
+<!--August-->
+{{.child.x|n=57|col4={{male}}|age={{YA}}|col6={{sim}}}}
+<!--Mars-->
+{{.child|n=58|col4={{male}}|age={{YA}}|col6={{sim}}|col7={{twin|#=21}}|col9=[[Brooke Pieterson]]|rs=2}}
+<!--Conner-->
+{{.child.x|n=59|col4={{male}}|age={{YA}}|col6={{sim}}}}
+<!--Blake-->
+{{.child|n=60|col4={{female}}|age={{YA}}|col6={{spellcaster}}|col7=|col9=[[Darrel Charm]]}}
+<!--Hannah-->
+{{.child|n=61|col4={{female}}|age={{YA}}|col6={{sim}}|col7={{twin|#=22}}|col9=[[Fetu Paewai]]|rs=2|col10=}}
+<!--Elliot-->
+{{.child.x|n=62|col4={{female}}|age={{YA}}|col6={{sim}}|col10=}}
+<!--Oliver-->
+{{.child|n=63|col4={{male}}|age={{YA}}|col6={{sim}}|col7=|col9=[[Stephen Andersen]]|col10=}}
+<!--Kelly-->
+{{.child|n=64|col4={{bi|female}}|age={{YA}}|col6={{sim}}|col7={{twin|#=23}}|col9=[[Ryder Milligan]]|rs=2|col10={{home}}}}
+<!--Wesley-->
+{{.child.x|n=65|col4={{male}}|age={{YA}}|col6={{sim}}|col10={{emb}}}}
+<!--Henry-->
+{{.child|n=66|col4={{male}}|age={{YA}}|col6={{sim}}|col7={{twin|#=24}}|col9=[[Adam Beast]]|rs=2|col10=}}
+<!--Holden-->
+{{.child.x|n=67|col4={{gay}}|age={{YA}}|col6={{sim}}|col10=}}
+<!--Josie-->
+{{.child|n=68|col4={{female}}|age={{YA}}|col6={{sim}}|col7={{twin|#=25}}|col9=[[Jase Marroquin]]|rs=2|col10=}}
+<!--Cove-->
+{{.child.x|n=69|col4={{female}}|age={{YA}}|col6={{sim}}|col10=}}
+<!--Delilah-->
+{{.child|n=70|col4={{ace|female}}|age={{YA}}|col6={{sim}}|col7={{twin|#=26}}|col9=[[Fred Jenson]]|rs=2|col10=}}
+<!--Danyel-->
+{{.child.x|n=71|col4={{female}}|age={{YA}}|col6={{sim}}|col10=}}
+<!--Ruth-->
+{{.child|n=72|col4={{trans|female}}|age={{YA}}|col6={{sim}}|col9=[[Messiah Reed]]|col10=}}
+<!--Todd-->
+{{.child|n=73|col4={{male}}|age={{YA}}|col6={{sim}}|col7={{twin|#=27}}|col9=[[Carlos Dias]]|col10=|rs=2}}
+<!--Jacob-->
+{{.child.x|n=74|col4={{male}}|age={{YA}}|col6={{sim}}|col10=}}
+<!--Eileen-->
+{{.child|n=75|col4={{female}}|age={{YA}}|col6={{sim}}|col7={{twin|#=28}}|col9=[[Aquaman Momoa]]|col10=|rs=2}}
+<!--Waldo-->
+{{.child.x|n=76|col4={{male}}|age={{YA}}|col6={{sim}}|col10=}}
+<!--Jennie-->
+{{.child|n=77|col4={{female}}|age={{YA}}|col6={{sim}}|col7=|col9=[[BTS Namjoon]]|col10=|rs=1}}
+<!--Rebekah-->
+{{.child|n=78|col4={{female}}|age={{YA}}|col6={{sim}}|col7={{twin|#=29}}|col9=[[BTS Jungkook]]|col10=|rs=2}}
+<!--Dwayne-->
+{{.child.x|n=79|col4={{male}}|age={{YA}}|col6={{sim}}|col7=|col10=}}
+<!--Loki-->
+{{.child|n=80|col4={{male}}|age={{YA}}|col6={{sim}}|col7={{twin|#=30}}|col9=[[Monica Geller]]|col10=|rs=2}}
+<!--Eleanor-->
+{{.child.x|n=81|col4={{female}}|age={{YA}}|col6={{sim}}|col7=|col10=}}
+<!--Koya-->
+{{.child|n=82|col4={{male}}|age={{YA}}|col6={{sim}}|col7={{twin|#=31}}|col9=[[BTS Jimin]]|col10=|rs=2}}
+<!--Rain-->
+{{.child.x|n=83|col4={{male}}|age={{YA}}|col6={{sim}}|col7=|col10=}}
+<!--Baby-->
+{{.child|n=84|col4={{female}}|age={{YA}}|col6={{sim}}|col7={{twin|#=32}}|col9=[[BTS J-Hope]]|col10=|rs=2}}
+<!--Jane-->
+{{.child.x|n=85|col4={{lesbian}}|age={{YA}}|col6={{sim}}|col7=|col10=}}
+<!--Han-->
+{{.child|n=86|col4={{male}}|age={{YA}}|col6={{sim}}|col7={{twin|#=33}}|col9=[[BTS Taehyung]]|col10=|rs=2}}
+<!--Hwan-->
+{{.child.x|n=87|col4={{male}}|age={{YA}}|col6={{sim}}|col7=|col10={{home}}}}
+<!--Keira-->
+{{.child|n=88|col4={{female}}|age={{YA}}|col6={{sim}}|col7=|col9=[[Ekam Khosa]]|col10={{home}}}}
+<!--Teddy-->
+{{.child|n=89|col4={{male}}|age={{toddler}}|col6={{sim}}|col7=|col9=[[Cataleya Collins]]|col10={{home}}}}
+<!--Levi-->
+{{.child|n=90|col4={{male}}|age={{baby}}|col6={{sim}}|col7={{twin|#=34}}|col9=[[Maleficent Moors]]|col10={{home}}|rs=2}}
+<!--Belle-->
+{{.child.x3|n=91|col4={{female}}|age={{baby}}|col6={{sim}}|col10={{home.x}}}}
+|}</div>
