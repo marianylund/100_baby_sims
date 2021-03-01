@@ -13,6 +13,10 @@ Source: https://developers.google.com/youtube/v3/quickstart/python
 
 ``pip install --upgrade google-auth-oauthlib google-auth-httplib2``
 
+``pip install requests``
+
+``pip install nltk``
+
 ````
 
 ## Data
