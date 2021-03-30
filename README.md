@@ -13,7 +13,7 @@ Source: https://developers.google.com/youtube/v3/quickstart/python
 
 ``pip install --upgrade google-auth-oauthlib google-auth-httplib2``
 
-``pip install requests``
+``pip install --upgrade requests``
 
 ``pip install nltk``
 
@@ -27,5 +27,9 @@ https://github.com/philipperemy/name-dataset
 
 ## Filtering
 https://regexr.com/
+
+Sources:
+https://matplotlib.org/stable/tutorials/colors/colormaps.html
+https://towardsdatascience.com/generate-meaningful-word-clouds-in-python-5b85f5668eeb
 
 
