@@ -1,5 +1,7 @@
 # Stats of 100 baby names Sims 4 Challenge
 
+Article describing the proccess and results can be found at https://mariaemnylund.medium.com/youtube-comments-analysis-in-100-baby-challenge-sims-4-6c2007ee493c
+
 ## To run
 Create env:
 ``conda create --name youtube``
